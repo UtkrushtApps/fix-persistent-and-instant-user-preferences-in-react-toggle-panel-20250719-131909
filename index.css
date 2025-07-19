@@ -1,0 +1,11 @@
+body {
+  margin: 0;
+  font-family: 'Inter', Arial, sans-serif;
+  min-height: 100vh;
+  background: #f5f7fa;
+  color: #222;
+}
+
+h1, h2 {
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, Arial, sans-serif;
+}
